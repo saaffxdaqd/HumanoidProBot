@@ -1,23 +1,20 @@
+# Hyper X v2.0 // open source repo
 
 
-***⚠️USE THIS REPO AT YOUR OWN RISK***
+# Use at your own risk
 
 
- ❌Liability
-
-
-
- ❌Warranty
+[Contact me](https://t.me/imperialxx)
 
 
  
  
 
+Click below to deploy
 
 
 
-
-[![phantom](https://telegra.ph/file/72b6a2032bd19642ff759.jpg)]
+[![phoenix](https://telegra.ph/file/326837d769c435d4b6400.jpg)]
 
 
 
