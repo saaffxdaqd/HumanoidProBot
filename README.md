@@ -7,7 +7,8 @@
 [Contact me](https://t.me/imperialxx)
 
 
- 
+ Hint : Telegram is missing 
+       : Python needs telegram -()-
  
 
 Click below to deploy
