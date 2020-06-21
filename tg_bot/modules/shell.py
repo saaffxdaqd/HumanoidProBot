@@ -7,12 +7,12 @@ from tg_bot.modules.helper_funcs.chat_status import dev_plus
 from tg_bot.modules.helper_funcs.misc import sendMessage
 from telegram.ext import CommandHandler
 from subprocess import Popen, PIPE
- 
+
 def shell(command):
     process = Popen(command,stdout=PIPE,shell=True,stderr=PIPE)
     stdout,stderr = process.communicate()
     return (stdout,stderr)
- 
+
 @dev_plus
 @run_async
 def shellExecute(bot: Bot, update: Update):
@@ -40,6 +40,6 @@ def shellExecute(bot: Bot, update: Update):
         else:
             sendMessage(f"<code>{output[0].decode()}</code>", bot, update)
                                                                                                     
- 
+
 shell_handler = CommandHandler(('sh','shell'), shellExecute)
 dispatcher.add_handler(shell_handler)
