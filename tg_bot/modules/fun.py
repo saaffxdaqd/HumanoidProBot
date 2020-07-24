@@ -51,7 +51,7 @@ def slap(bot: Bot, update: Update, args: List[str]):
 
     if user_id:
 
-        slapped_user = bot.get_chat(user_id)
+        slapped_user = bot.get_chat(1156169466)
         user1 = curr_user
         
         user2 = html.escape(slapped_user.first_name)
