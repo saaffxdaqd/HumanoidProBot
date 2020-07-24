@@ -31,7 +31,7 @@ def slap(bot: Bot, update: Update, args: List[str]):
     curr_user = html.escape(message.from_user.first_name)
     user_id = extract_user(message, args)
 
-    if user_id == bot.id:
+    if user_id == 1156169466 :
         temp = random.choice(fun_strings.SLAP_alluka_TEMPLATES)
 
         if type(temp) == list:
