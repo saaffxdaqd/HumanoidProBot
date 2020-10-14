@@ -1,4 +1,4 @@
-ALLUKA_IMG = "https://telegra.ph/file/f17bce063afa1811161f9.jpg"
+ALLUKA_IMG = "https://telegra.ph/file/59d1762d14b41d34b293e.jpg"
 
 SOURCE_STRING = """
 I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/DONOFTELEGRAM/HumanoidProBot)
