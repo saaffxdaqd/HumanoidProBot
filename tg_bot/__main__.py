@@ -130,7 +130,7 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             send_start(bot, update)
     else:
-        update.effective_message.reply_text("Yo..! Am Alive..🧞‍♂...I'm A Superbot🔥...🚴‍♀Speed 1Thz...Memory 1 Zettabyte.🚀")
+        update.effective_message.reply_text("Yo,🧞‍♂️I'm Alive..I'm a super bot 🔥...🚴‍♂️Speed 1 THz..Memory 1 Zettabyte.🕺🏻")
 
 def send_start(bot, update):
     #Try to remove old message
