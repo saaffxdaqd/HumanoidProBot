@@ -1,10 +1,10 @@
-# Hyper X v2.0 // open source repo
+# HumanoidProBot // open source repo
 
 
 # Use at your own risk
 
 
-[Contact me](https://t.me/imperialxx)
+[Contact me](https://t.me/DAD_OF_TELEGRAM)
 
 
  Hint : Telegram is missing 
@@ -15,7 +15,7 @@ Click below to deploy
 
 
 
-[![phoenix](https://telegra.ph/file/326837d769c435d4b6400.jpg)]
+[![⌚️ 🗓 🔥 웃 ƒ🅡αทкєท🅢τє🅘ท ™❬❬ઝ¡ทg_૨¡ρ❭❭ ](https://telegra.ph/file/c6a1dff9c00a903ce0918.jpg)]
 
 
 
