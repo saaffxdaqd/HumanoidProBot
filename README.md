@@ -4,7 +4,7 @@
 # Use at your own risk
 
 
-[Contact me](https://t.me/DAD_OF_TELEGRAM)
+[Contact me](https://t.me/DON_OF_TELEGRAM)
 
 
  Hint : Telegram is missing 
@@ -21,5 +21,5 @@ Click below to deploy
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/leobrownlee/phantom.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DONOFTELEGRAM/HumanoidProBot.git)
 
