@@ -146,7 +146,7 @@ def send_start(bot, update):
     text += "\n\n𝐅𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐠𝐞𝐭 𝐦𝐞 𝐢𝐧𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩𝐬..."  
 
     keyboard = [[InlineKeyboardButton(text="Help❓", callback_data="help_back"),InlineKeyboardButton(text="Connect Group 🔄", callback_data="main_connect")]]
-    keyboard += [[InlineKeyboardButton(text="Add Me☣",url="http://t.me/zoldycktmbot?startgroup=true"),InlineKeyboardButton(text="Owner🔱",url="https://telegram.dog/Villain_Of_Telegram")]]
+    keyboard += [[InlineKeyboardButton(text="Add Me🔆",url="http://t.me/zoldycktmbot?startgroup=true"),InlineKeyboardButton(text="Owner🔱",url="https://telegram.dog/Villain_Of_Telegram")]]
 
     update.effective_message.reply_photo(HELP_PANEL_STRING.ALLUKA_IMG,text.format(escape_markdown(first_name), escape_markdown(bot.first_name)), reply_markup=InlineKeyboardMarkup(keyboard), parse_mode=ParseMode.MARKDOWN)
 
