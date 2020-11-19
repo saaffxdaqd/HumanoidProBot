@@ -1,7 +1,7 @@
 ALLUKA_IMG = "https://telegra.ph/file/a724e553fa32813a79318.jpg"
 
 SOURCE_STRING = """
-I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/DONOFTELEGRAM/HumanoidProBot)
+I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://t.me/DON_OF_TELEGRAM)
 """
 
 HELP = """
@@ -12,10 +12,10 @@ the things I can help you with.
  -💫 /start: start the bot
  -💫 /help: PM's you this message.
  -💫 /help <module name>: PM's you info about that module.
- -💫 /source: Information about my source.
- -💫 /settings:
-  -💫 in PM: will send you your settings for all supported modules.
-  -💫 in a group: will redirect you to pm, with all that chat's settings.
+ -♻️ /source: Information about my source.
+ -♻️ /settings:
+  -✨ in PM: will send you your settings for all supported modules.
+  -✨ in a group: will redirect you to pm, with all that chat's settings.
 {}
 And the following:
 """
