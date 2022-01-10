@@ -21,5 +21,5 @@ Click below to deploy
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DONOFTELEGRAM/HumanoidProBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saaffxdaqd/HumanoidProBot.git)
 
